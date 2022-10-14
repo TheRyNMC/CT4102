@@ -1,0 +1,8 @@
+﻿  task2.cpp
+C:\Users\Ryan Mcnab\CT4102\14.10.22 l1\14.10.22 l1\task2.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ryan Mcnab\CT4102\14.10.22 l1\14.10.22 l1\task2.cpp(8,2): error C3861: 'meow': identifier not found
+C:\Users\Ryan Mcnab\CT4102\14.10.22 l1\14.10.22 l1\task2.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task3.cpp
+C:\Users\Ryan Mcnab\CT4102\14.10.22 l1\14.10.22 l1\task3.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ryan Mcnab\CT4102\14.10.22 l1\14.10.22 l1\task3.cpp(4,2): error C3861: 'type': identifier not found
+  Generating Code...
